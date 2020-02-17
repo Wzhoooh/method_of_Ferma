@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1581761382 source:c:\users\alex\desktop\programming\c++\0-educational_projects\method_of_ferma\main.cpp
+	<iostream>
+	<set>
+	<queue>
+	<exception>
+	<cmath>
+
